@@ -51,7 +51,7 @@ Focus:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
-<img src="https://toppng.com/uploads/preview/arch-linux-logo-arch-linux-11562915682mxfu99tp6t.png" width="50"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50"/>
 </p>
